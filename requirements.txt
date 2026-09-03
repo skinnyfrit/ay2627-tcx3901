@@ -1,0 +1,8 @@
+# environment
+ipykernel < 7.0.0
+
+# packages
+pandas
+numpy
+matplotlib
+seaborn
